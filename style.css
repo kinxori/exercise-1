@@ -1,0 +1,76 @@
+html, 
+body{
+    background-color: rgb(74, 45, 71);
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+.banner1{
+    height: min-content;
+    box-sizing: content-box;
+    background-color: orange;
+    margin: 0 auto;
+    max-width: 800px;
+    padding-bottom: 40px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 25px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+.banner1 .copy1 {
+    display: inline-block;
+    margin-right: 4rem;
+    max-width: 400px;
+    margin-left: 0px;
+    margin-top: 30px;
+}
+.copy1 h1{
+    margin-top: 10px;
+    margin-left: 25px;   
+    margin-bottom: 20px; 
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    font-family:avenir next condensed;
+    font-size: 50px;
+    color: white;
+    line-height: 50px;
+}
+.copy1 p{
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family:avenir next condensed;
+    font-size: 20px;
+    color: white;
+    line-height: 20px;
+}
+.banner1 .CTA{
+    width: 200px;
+    height: 50px;
+    text-transform: uppercase;
+    font-size: 15px;
+    margin-left: 25px;
+    margin-top: 10px;
+    border: none;
+    font-family: san marino beach;
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.banner1 .doge1{
+    width: 24%;
+    display: inline-table;
+    position: relative;
+    top: 20px;
+    left: 0px;
+}
+.doge1 img{
+    width: 120%;
+}    
